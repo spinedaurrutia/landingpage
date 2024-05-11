@@ -1,0 +1,117 @@
+@charset "utf-8";
+/* CSS Document */
+
+:root{
+	--color-background:#E0DAD5;
+	--color-rojo:#A62E2F;
+	--amarillo-bonito:#D8E319;
+	--color-footer:#262526;
+	--gris-raro:#4F4A4E;
+}
+
+.wrapper-circle {
+    width: 100%;
+    height: 100%;
+}
+
+#aprende {
+	padding: 5%;
+	background-color: var(--color-background);
+}
+
+.color-rojo{
+	color: var(--color-rojo);
+}
+.link123 {
+	font-weight: 400;
+	font-size: 25px;
+	
+}
+
+hr {
+	width: 50%;
+	line-height: 50px;
+}
+
+#experiencia {
+	background-color: var(--gris-raro);
+	padding: 4%;
+}
+
+.amarillo {
+	color: var(--amarillo-bonito);
+}
+
+.blanco {
+	color:#fff;
+}
+
+#proyectos {
+	
+	filter: brightness(100%);
+}
+#proyectos2 {
+	
+	filter: brightness(100%);
+}
+#proyectos3 {
+	
+	filter: brightness(100%);
+}
+
+#proyectos img {
+	
+	width: 100%;
+	filter: brightness(50%);
+}
+#proyectos2 img {
+	
+	width: 100%;
+	filter: brightness(50%);
+}
+#proyectos3 img {
+	
+	width: 100%;
+	filter: brightness(50%);
+}
+
+#contacto img {
+	
+	width: 100%;
+	filter: brightness(50%);
+}
+#padding {
+	padding: 5%;
+}
+
+.padding {
+	padding-top: 10%;
+	padding-left: 5%;
+	
+}
+.padding2 {
+	padding-top: 40%;
+	padding-left: 65%;
+	
+}
+
+
+
+.padding3 {
+	padding: 3%;
+	text-align: center;
+}
+
+footer {
+	background-color: var(--color-footer);
+	color: #fff;
+	padding-top: 5%;
+}
+
+#contacto {
+	filter: brightness(100%);
+}
+
+.text-alaign {
+	text-align: center;
+}
